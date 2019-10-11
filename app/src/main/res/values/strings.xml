@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrafficTicketing</string>
+    <string name="flag_violation">FLAG VIOLATION</string>
+    <string name="check_history">Check History</string>
+    <string name="traffic_ticketing">Traffic Ticketing</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="license_plate_no">License Plate No</string>
+    <string name="or">OR</string>
+    <string name="new_violation">New</string>
+    <string name="history">History</string>
+    <string name="retake">RETAKE</string>
+    <string name="proceed">PROCEED</string>
+    <string name="license_num">HR 26 CR 1372</string>
+    <string name="fine_amount">Fine Amount</string>
+    <string name="over_speeding">OVER-SPEEDING</string>
+    <string name="confirm_car_num">Confirm the car number to get the \n ticket details or retake</string>
+</resources>
